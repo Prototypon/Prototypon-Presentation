@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size:22px;
+    line-height: 34px;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Playfair Display', serif;
+}
+
+
+.img1{
+    background-color: #eee;
+    background-image: url(assets/1000x500.png)   
+}
+
+.footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    line-height: 14px;
+}
